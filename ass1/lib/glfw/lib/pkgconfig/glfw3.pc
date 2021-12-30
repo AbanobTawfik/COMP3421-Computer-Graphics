@@ -1,0 +1,13 @@
+prefix=C:/Users/pizza/CLionProjects/COMP3421-Computer-Graphics/Assignments/ass1/lib/glfw
+exec_prefix=${prefix}
+includedir=C:/Users/pizza/CLionProjects/COMP3421-Computer-Graphics/Assignments/ass1/lib/glfw/include
+libdir=C:/Users/pizza/CLionProjects/COMP3421-Computer-Graphics/Assignments/ass1/lib/glfw/lib
+
+Name: GLFW
+Description: A multi-platform library for OpenGL, window and input
+Version: 3.4.0
+URL: https://www.glfw.org/
+Requires.private: 
+Libs: -L${libdir} -lglfw3
+Libs.private:  -lgdi32
+Cflags: -I${includedir}
