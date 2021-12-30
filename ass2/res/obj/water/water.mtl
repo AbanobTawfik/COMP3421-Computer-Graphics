@@ -1,0 +1,30 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Drops
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images/DropsNormal.png
+map_Kd images/DropsAlbedo.png
+map_Ks images/DropsRough.png
+refl images/DropsMetal.png
+
+newmtl Drops.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images/DropsNormal.png
+map_Kd images/DropsAlbedo.png
+map_Ks images/DropsRough.png
+refl images/DropsMetal.png

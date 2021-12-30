@@ -1,0 +1,75 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl lambert5
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.200000 H:\\Misc\\Tracking Data\\logo pr\\3d Animated Logo\\james 8 plants\\plant textures\\ground bump.jpg
+map_Kd Plant Textures\\ground.jpg
+
+newmtl new_plant_1:phongE2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 Plant Textures\\stem bump.png
+map_Kd Plant Textures\\stem1.png
+
+newmtl new_plant_1:phongE4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 Plant Textures\\leaf texture 1 bump.png
+map_Kd Plant Textures\\leaf texture 1.png
+map_d Plant Textures\\leaf texture 1.png
+
+newmtl new_plant_1:phongE6
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 Plant Textures\\leaf texture 2 bump.png
+map_Kd Plant Textures\\leaf texture 2.png
+map_d Plant Textures\\leaf texture 2.png
+
+newmtl new_plant_1:phongE8
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 Plant Textures\\leaf texture 3 bump.png
+map_Kd Plant Textures\\leaf texture 3.png
+
+newmtl new_plant_1:phongE9
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Plant Textures\\stem 2.png
